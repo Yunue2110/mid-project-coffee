@@ -12,18 +12,29 @@ The Coffee Quality Institute (CQI) is a nonprofit organization working internati
 
 
 
-And what is inside?
-As explained in the repo, the datasets have reviews from specialized reviewers for both coffees: arabica and robusta. The below information is provided in each dataset.
+### And what is inside?
+As explained in the repo, the datasets have reviews from specialized reviewers for both coffees: arabica and robusta. The below information is provided in each dataset:
 
-+Quality Measures
-+Aroma
-Flavor
-Aftertaste
-Acidity
-Body
-Balance
-Uniformity
-Cup Cleanliness
-Sweetness
-Moisture
-Defects
+-Quality Measures 
+
+-Aroma
+
+-Flavor
+
+-Aftertaste
+
+-Acidity
+
+-Body
+
+-Balance
+
+-Uniformity
+
+-Cup Cleanliness
+
+-Sweetness
+
+-Moisture
+
+-Defects
