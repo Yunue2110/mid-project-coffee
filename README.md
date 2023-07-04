@@ -36,6 +36,4 @@ As explained in the repo, the datasets have reviews from specialized reviewers f
 -Defects
 
 
-Therefore, now I want to try to predict the score by machine learning.
 
-Checking the average points grouping by country of origin
