@@ -35,5 +35,12 @@ As explained in the repo, the datasets have reviews from specialized reviewers f
 
 -Defects
 
+ https://trello.com/b/F5hrzFvH/project-coffee-quality
+
+ https://public.tableau.com/app/profile/yunue.santamaria/viz/Coffeeminproyec2/especiesyaltitud
+ 
+https://public.tableau.com/app/profile/yunue.santamaria/viz/Coffeeminproyec1/especiesyaltitud)https://public.tableau.com/app/profile/yunue.santamaria/viz/Coffeeminproyec1/especiesyaltitud
+
+
 
 
