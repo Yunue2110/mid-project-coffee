@@ -39,7 +39,7 @@ As explained in the repo, the datasets have reviews from specialized reviewers f
 
  https://public.tableau.com/app/profile/yunue.santamaria/viz/Coffeeminproyec2/especiesyaltitud
  
-https://public.tableau.com/app/profile/yunue.santamaria/viz/Coffeeminproyec1/especiesyaltitud)https://public.tableau.com/app/profile/yunue.santamaria/viz/Coffeeminproyec1/especiesyaltitud
+https://public.tableau.com/views/Coffeeminproyec2/TOPS?:language=es-ES&:display_count=n&:origin=viz_share_link
 
 
 
